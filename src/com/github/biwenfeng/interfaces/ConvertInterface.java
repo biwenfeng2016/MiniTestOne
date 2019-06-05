@@ -1,6 +1,6 @@
 package com.github.biwenfeng.interfaces;
 
-public abstract class ConvertInterface {
+public abstract class ConvertInterface { 
 
 	public abstract String convert(Integer number);
 
